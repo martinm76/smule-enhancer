@@ -1,7 +1,7 @@
 <?php 
 /* 
  * Plugin Name: Smule enhancement features and functions 
- * Plugin URI: N/A
+ * Plugin URI: https://github.com/martinm76/smule-enhancer/
  * Description: Automatically embed smule recordning URLs, if they are in the right format.
  * Version: 1.00
  * Author: Martin Møller <martin.moller@gmail.com> 
